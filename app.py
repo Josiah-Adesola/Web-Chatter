@@ -1,5 +1,5 @@
 import os
-
+import sqlite3
 import streamlit as st
 from dotenv import load_dotenv
 from langchain.chains import RetrievalQA
