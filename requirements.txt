@@ -3,6 +3,5 @@ openai
 streamlit
 python-dotenv
 bs4
-chromadb
+chromadb==0.3.29
 tiktoken
-pysqlite3
