@@ -30,7 +30,7 @@ chain_type_kwargs = {"prompt": prompt}
 
 def main():
     #Set the title and subtitle of the app with streamlit
-    st.title("🦜🔗 Chat with Any Website")
+    st.title("🦜🔗 Web Chatter")
     st.subheader('Input your website URL, ask questions and receive answers from the website!')
     
     url = st.text_input("Enter the website URL here:")
