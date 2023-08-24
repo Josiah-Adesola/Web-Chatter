@@ -20,10 +20,10 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone this repository:
 
    ```shell
-   git clone https://github.com/yourusername/Web-Chatter.git
+   git clone https://github.com/Josiah-Adesola/Web-Chatter.git
 2. Navigate to the project directory:
    ```shell
-   cd langchain-openai-streamlit
+   cd Web-Chatter
 3. Install the required Python packages:
    ```shell
    pip install -r requirements.txt
