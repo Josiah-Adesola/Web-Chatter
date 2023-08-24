@@ -5,4 +5,4 @@ python-dotenv
 bs4
 chromadb
 tiktoken
-pysqlite3-wheels
+pysqlite3
