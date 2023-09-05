@@ -48,7 +48,7 @@ def main():
         
         #Split the loaded data
         text_splitter = CharacterTextSplitter(separator='\n',
-                                              chunk_size=500,
+                                              chunk_size=2500,
                                               chunk_overlap=40)
         docs = text_splitter.split_documents(data)
         
